@@ -1,0 +1,63 @@
+﻿Star systems
+    • 50 total. Possible 100 depending on whether I can make the code handle it.
+    • Detailed/Simple Planetary Systems?
+    • Planets/Trade Outposts
+    • Empty Systems?
+
+Single Point System:
+    • Each stop is identified only by the star name. Trading post is assumed just by stopping there. Only one post per system. Simple, easy to setup.
+Multi-Point System:
+    • Each stop is identified by the star name, but there are multiple trading posts per system. More complex, would need to delve into an expanded view. Larger number of objects to keep track of.
+Trading Posts:
+    • Commodity Broker
+    • Ship Broker
+    • Shipyard/Parts Dealer
+    • Bar/Rumor Den?
+
+Factions?
+    • 2 or 3 total factions
+    • Claimed Territory?
+        ◦ Certain commodities or ships only available within territory held by certain factions?
+    • Faction relationships?
+    • Pricing and/or availability of certain goods only available based on player relationship with the controlling faction
+
+Currency
+    • Multiple Types?
+
+Commodities
+    • 10 total?
+
+Ships
+    • Speed
+    • Range
+    • Cargo Units
+    • Hull Strength?
+    • Weapons?
+    • Shields?
+    • Provisions (xMonths of supplies)
+
+Navigation/Travel
+    • Range limited by Ship/Engine type
+    • Speed determined by Ship/Engine type
+    • Damaged/Destroyed engines will cause travel time to multiply by 12 to replicate sublight speeds
+
+Combat
+    • Each combatant is given numbers based on attack, defense, and hull strength. Weapon type determines attack, shields determine defense, and hull strength determines HP. Hull/HP damage will slowly damage/destroy systems until total failure and destruction.
+
+Story?
+
+Living Universe
+    • Events happen at randomly determined points in time. If the player takes ends up with a damaged engine and has to take several years to travel, events will have continued as originally determined. Should the vessel the player owns not have enough supplies to sustain them for the duration of the travel, game over.
+
+Interface
+Menus
+    • Text Based?
+    • Graphical
+    • Mixed?
+Main Display
+    • Split Main map of local area
+    • Minimap of entire galaxy
+    • Status Indicator
+
+Timing
+    • Each turn takes 1 month. Speed rating of ships determines how many months travel will require.

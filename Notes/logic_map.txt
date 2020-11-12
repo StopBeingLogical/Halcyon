@@ -1,0 +1,47 @@
+Space Tycoon
+
+Logic Map
+
+Targets:
+
+- Linux/MacOS terminal console for prototype.
+- C128, AppleII, DOS 80 column text mode for final
+
+
+Modules:
+
+- Opening screens
+- Main menu
+- Game options
+- Main screen/Map drawing
+- Planetary management screen
+- Ship management screen
+- Trade routes
+
+
+Things to flesh out:
+
+- System types
+- Vessel types
+- Native population types
+- Exactly how trade routes would work
+
+
+Things to learn how to do:
+
+X Center text in console window for intro screens, etc
+- Draw map screen
+- Draw screen with map and text info
+- Internal database structure for planetary bodies, etc
+
+
+To Do:
+
+- Determine parts (variables, etc) for each "module"
+- Map out program logic (UML or whatever)
+
+Things Done:
+
+- Intro Screen
+- GitHub Repo
+- Blog post to announce the thing
