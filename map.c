@@ -1,7 +1,7 @@
 #include "constants.h"
 
 
-void map(void) 
+void map(void)
 {
 	int row,col;
 	clear();
@@ -10,8 +10,8 @@ void map(void)
 	vline( ACS_VLINE, row );
 	move( row/2, 0 );
 	hline( ACS_HLINE, col );
-	
-	refresh();                                                                               
+
+	refresh();
 	getch();
 
 }

@@ -1,7 +1,7 @@
 #include "constants.h"
 
 void intro(void) {
-	char mesg1[]="Space Tycoon";
+	char mesg1[]="Halcyon";
 	char mesg2[]="by Stop Being Logical Software"; 
 	char mesg3[]="Press Any Key To Continue";
 	int row,col;
